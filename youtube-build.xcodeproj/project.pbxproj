@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE2F06582A913E0900E8E6E6 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2F06572A913E0900E8E6E6 /* DetailViewController.swift */; };
 		CE5F23002A5AA9E3000A966E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5F22FF2A5AA9E3000A966E /* AppDelegate.swift */; };
 		CE5F23022A5AA9E3000A966E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5F23012A5AA9E3000A966E /* SceneDelegate.swift */; };
 		CE5F23042A5AA9E3000A966E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5F23032A5AA9E3000A966E /* ViewController.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE2F06572A913E0900E8E6E6 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		CE5F22FC2A5AA9E3000A966E /* youtube-build.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "youtube-build.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE5F22FF2A5AA9E3000A966E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE5F23012A5AA9E3000A966E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 			isa = PBXGroup;
 			children = (
 				CE5F23032A5AA9E3000A966E /* ViewController.swift */,
+				CE2F06572A913E0900E8E6E6 /* DetailViewController.swift */,
 			);
 			path = "View Controlles";
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				CE756F162A5D25B50090994B /* Model.swift in Sources */,
 				CE6DBA062A5BFE4D002A7261 /* Constants.swift in Sources */,
 				CE6E1FFA2A7E33CA00A354CE /* VideoTableViewCell.swift in Sources */,
+				CE2F06582A913E0900E8E6E6 /* DetailViewController.swift in Sources */,
 				CE756F142A5D25150090994B /* Video.swift in Sources */,
 				CE8D19372A7BED9500E030D7 /* Response.swift in Sources */,
 			);
